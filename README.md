@@ -8,7 +8,11 @@ You can use the following guide to learn how and why to create a pull request.
 
 A pull request is a way to suggest changes to a repository. When you create a pull request, you propose your changes and request that someone review and pull in your contribution and merge them into their branch. Pull requests show differences between the content from both branches and the changes are visible in the repository.
 
-<!-- TODO: Add information on PRs and forks. -->
+## What is forking?
+
+Forking is a GitHub feature. It is similar to branching however a fork clones a repo to somewhere else on GitHub. GitHub maintains a link back to the forked repo and a count of forks.
+
+It allows you to go your own way and take the repo in a direction of your choosing. Branch from the outside looking in - you only need read permissions to the repo to start working.
 
 ## Set up your environment
 
