@@ -1,5 +1,7 @@
 # Intro to PRs
 
+I've made some changes so that I can practice.
+
 ![Illustrative image of people working together](colab.png)
 
 You can use the following guide to learn how and why to create a pull request.
